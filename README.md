@@ -79,5 +79,6 @@ Enlaces de interes
     
      
 * Recursos Pentesting
-    * Escalada privilegios
-       * [Linux-Privilege-Escalation-Basics](https://github.com/RoqueNight/Linux-Privilege-Escalation-Basics)
+    * [Pentesting, Ethical Hacking & Offensive Security - Castellano](https://pentesting.mrw0l05zyn.cl/)
+    * [Active Directory Penetration Testing](https://activedirectory.mrw0l05zyn.cl/)
+    * [Linux-Privilege-Escalation-Basics](https://github.com/RoqueNight/Linux-Privilege-Escalation-Basics)
